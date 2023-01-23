@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "031ca95c6a4ebba6",
+            "id": "89d23dfd4a5e6460",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "papers/SPIE2020_MartinezN_The_use_of_Sodium_Layer_density_anisotropies_TT_retrieval.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "7673e94d12ead254",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "papers/SPIE2020_MartinezN_The_use_of_Sodium_Layer_density_anisotropies_TT_retrieval.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "papers/SPIE2020_MartinezN_The_use_of_Sodium_Layer_density_anisotropies_TT_retrieval.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "papers/SPIE2020_MartinezN_The_use_of_Sodium_Layer_density_anisotropies_TT_retrieval.md"
+              }
             }
           }
         ]
@@ -128,6 +136,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "031ca95c6a4ebba6",
-  "lastOpenFiles": []
+  "active": "89d23dfd4a5e6460",
+  "lastOpenFiles": [
+    "todos/2023-01-20.md",
+    "papers/SodiumTTRetrieval_ProjectNarrative.md",
+    "papers/SPIE2020_MartinezN_The_use_of_Sodium_Layer_density_anisotropies_TT_retrieval.md",
+    "templates/example daily.md",
+    "meeting_notes/2022-11-09.md",
+    "Daily ToDo.md",
+    "2023-01-20 Meeting Noelia.md"
+  ]
 }
