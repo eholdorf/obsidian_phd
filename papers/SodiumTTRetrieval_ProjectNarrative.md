@@ -1,6 +1,6 @@
 #papers 
 
-[pdf](file:///C:/Users/Erin/Documents/PhD/papers/SodiumTTRetrieval_ProjectNarrative.pdf)
+[pdf](file:///Users/u6955379/Documents/PhD/papers/SodiumTTRetrieval_ProjectNarrative.pdf)
 
 # Notes:
 - laser guide stars used to overcome atmosphere in AO

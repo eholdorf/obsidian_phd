@@ -1,7 +1,6 @@
 #papers
 
-
-[pdf](file:///C:/Users/Erin/Documents/PhD/papers/SPIE2020_MartinezN_The_use_of_Sodium_Layer_density_anisotropies_TT_retrieval.pdf)
+[pdf](file:///Users/u6955379/Documents/PhD/papers/SPIE2020_MartinezN_The_use_of_Sodium_Layer_density_anisotropies_TT_retrieval.pdf)
 
 # Notes:
 - want to study horizontal distribution - could use plenoptic camera
