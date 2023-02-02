@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3a655671181b2067",
+        "id": "f28ec0d696285412",
         "type": "tabs",
         "children": [
           {
-            "id": "1987af601597ede8",
+            "id": "a35e7f94e6818971",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todos/2023-01-24.md",
+                "file": "papers/event_based_sensor_overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "todos/2023-01-24.md",
+                "file": "papers/event_based_sensor_overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "todos/2023-01-24.md",
+                "file": "papers/event_based_sensor_overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "todos/2023-01-24.md"
+                "file": "papers/event_based_sensor_overview.md"
               }
             }
           }
@@ -147,17 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1987af601597ede8",
+  "active": "4cd415f81573d46c",
   "lastOpenFiles": [
-    "papers/v3_ICSO22_113_Double_Axicons_to_maximize_Optical_Feeder_Links_transmission_on_conventional_telescopes.md",
-    "todos/2023-01-24.md",
-    "papers/SPIE_CaNaPy_Opto_mechanics_2022.md",
-    "notes for proposal speech.md",
-    "meeting_notes/2023-01-.md",
-    "papers/SPIE2022_CaNaPy_NM.pdf.md",
+    "papers/High Resolution 3-D Imaging of Mesospheric Sodium (Na) Layer Utilizing a Novel Multilayer ICCD Imager and a Na Lidar.md",
+    "papers/Signature of an overturning gravity wave in the mesospheric sodium layer- Comparison of a nonlinear photochemical-dynamical model and lidar observations.md",
+    "papers/Studies of gravity wave–induced fluctuations of the sodium layer using linear and nonlinear models.md",
+    "pictures/sodium_layer_grav_waves.png",
+    "todos/2023-02-02.md",
+    "papers/263115a0.md",
+    "papers/annurev-astro-081811-125447.pdf.md",
     "acronyms.md",
-    "papers/Sodium_layer_density_anisotropies_as_a_reference_for_tip-tilt_measurements_in_Laser_Guide_Stars.md",
-    "papers/Shack_Hartmann_event_based_sensor.md",
-    "papers/358-Domenico_Bonaccini_Calia.md"
+    "papers/event_based_sensor_overview.md",
+    "papers/annurev-astro-091916-055320.md"
   ]
 }
