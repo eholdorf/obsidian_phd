@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "papers/wavefront sensors in AO.md",
+                "file": "papers/Signature of an overturning gravity wave in the mesospheric sodium layer- Comparison of a nonlinear photochemical-dynamical model and lidar observations.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "papers/wavefront sensors in AO.md",
+                "file": "papers/Signature of an overturning gravity wave in the mesospheric sodium layer- Comparison of a nonlinear photochemical-dynamical model and lidar observations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "papers/wavefront sensors in AO.md",
+                "file": "papers/Signature of an overturning gravity wave in the mesospheric sodium layer- Comparison of a nonlinear photochemical-dynamical model and lidar observations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "papers/wavefront sensors in AO.md"
+                "file": "papers/Signature of an overturning gravity wave in the mesospheric sodium layer- Comparison of a nonlinear photochemical-dynamical model and lidar observations.md"
               }
             }
           }
@@ -147,17 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4cd415f81573d46c",
+  "active": "1b1a5f79aac24ad8",
   "lastOpenFiles": [
-    "todos/2023-02-07.md",
-    "todos/2023-02-02.md",
-    "papers/wavefront sensors in AO.md",
-    "papers/The Point-diffraction (“Smartt”) Interferometer.md",
+    "papers/Studies of gravity wave–induced fluctuations of the sodium layer using linear and nonlinear models.md",
+    "papers/Signature of an overturning gravity wave in the mesospheric sodium layer- Comparison of a nonlinear photochemical-dynamical model and lidar observations.md",
     "papers/A case study on occurrence of an unusual structure in the sodium layer over Gadanki, India.md",
+    "papers/The Point-diffraction (“Smartt”) Interferometer.md",
+    "papers/v3_ICSO22_113_Double_Axicons_to_maximize_Optical_Feeder_Links_transmission_on_conventional_telescopes.md",
+    "papers/wavefront sensors in AO.md",
+    "papers/Sodium_layer_density_anisotropies_as_a_reference_for_tip-tilt_measurements_in_Laser_Guide_Stars.md",
     "papers/High Resolution 3-D Imaging of Mesospheric Sodium (Na) Layer Utilizing a Novel Multilayer ICCD Imager and a Na Lidar.md",
-    "papers/annurev-astro-091916-055320.md",
     "papers/annurev-astro-081811-125447.pdf.md",
-    "acronyms.md",
     "papers/event_based_sensor_overview.md"
   ]
 }
