@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "biblatex",
+  "literatureNoteTitleTemplate": "@{{citekey}}",
+  "literatureNoteFolder": "papers",
+  "literatureNoteContentTemplate": "#papers\n\n---\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\n---\nnotes:\n",
+  "markdownCitationTemplate": "[@{{citekey}}]",
+  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
+  "citationExportPath": "/Users/u6955379/Documents/PhD/papers/bibliography.bib"
+}
