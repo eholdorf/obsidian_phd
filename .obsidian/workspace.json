@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "papers/@Wang_2017.md",
+                "file": "papers/@Shiokawa_2007.md",
                 "mode": "preview",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "- [ ]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "papers/@Wang_2017.md",
+                "file": "papers/@Shiokawa_2007.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "papers/@Wang_2017.md",
+                "file": "papers/@Shiokawa_2007.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "papers/@Wang_2017.md"
+                "file": "papers/@Shiokawa_2007.md"
               }
             }
           }
@@ -149,31 +149,31 @@
   },
   "active": "fc22209be066459f",
   "lastOpenFiles": [
-    "papers/@Smartt_1975.md",
-    "papers/@Wang_2017.md",
-    "papers/@MEDEIROS_2004.md",
-    "papers/@MARTINIS_2018.md",
-    "papers/@Martinis_2020.md",
-    "papers/@vargas_2021.md",
-    "papers/@clemesha_1979.md",
-    "papers/@Clemesha_1978.md",
-    "papers/@Kirchhoff_1979.md",
-    "papers/@Hossain_2010.md",
-    "papers/@CLEMESHA_2010.md",
-    "papers/@Yi_it_2021.md",
-    "papers/@Yi_2002.md",
-    "papers/@Xu_2003.md",
-    "papers/@Williams_2007.md",
-    "papers/@Vishnu_Prasanth_2007.md",
-    "papers/@Tsuda_2015.md",
-    "papers/@THOMAS_1977.md",
-    "papers/@THOMAS_1976.md",
-    "papers/@She_2003.md",
-    "papers/@Senft_1989.md",
-    "papers/@Pfrommer_2014.md",
-    "papers/@Pfrommer_2010.md",
-    "papers/@Nagasawa_1995.md",
-    "papers/@Moussaoui_2010.md",
-    "papers/@MACDOUGALL20001155.md"
+    "papers/@Hossain_2014.md",
+    "papers/@Shiokawa_2007.md",
+    "papers/@Takahashi_1989.md",
+    "papers/@TAKAHASHI_1996.md",
+    "papers/SodiumTTRetrieval_ProjectNarrative.md",
+    "todos/2023-03-14.md",
+    "papers/@Marzoa_2016.md",
+    "papers/Sodium_layer_density_anisotropies_as_a_reference_for_tip-tilt_measurements_in_Laser_Guide_Stars.md",
+    "todos/2023-03-10.md",
+    "todos/2023-03-06.md",
+    "papers/@Yi_2017.md",
+    "papers/SPIE_CaNaPy_Opto_mechanics_2022.md",
+    "papers/SPIE2020_MartinezN_The_use_of_Sodium_Layer_density_anisotropies_TT_retrieval.md",
+    "papers/SPIE2022_CaNaPy_NM.pdf.md",
+    "papers/Statistical Characteristics of High-Frequency Gravity Waves Observed by an Airglow Imager at Andes Lidar Observatory.md",
+    "papers/Studies of gravity wave–induced fluctuations of the sodium layer using linear and nonlinear models.md",
+    "papers/The Point-diffraction (“Smartt”) Interferometer.md",
+    "papers/v3_ICSO22_113_Double_Axicons_to_maximize_Optical_Feeder_Links_transmission_on_conventional_telescopes.md",
+    "papers/wavefront sensors in AO.md",
+    "papers/annurev-astro-081811-125447.pdf.md",
+    "papers/A case study on occurrence of an unusual structure in the sodium layer over Gadanki, India.md",
+    "papers/annurev-astro-091916-055320.md",
+    "papers/event_based_sensor_overview.md",
+    "papers/High Resolution 3-D Imaging of Mesospheric Sodium (Na) Layer Utilizing a Novel Multilayer ICCD Imager and a Na Lidar.md",
+    "papers/Shack_Hartmann_event_based_sensor.md",
+    "papers/Signature of an overturning gravity wave in the mesospheric sodium layer- Comparison of a nonlinear photochemical-dynamical model and lidar observations.md"
   ]
 }
